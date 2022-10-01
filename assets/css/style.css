@@ -22,3 +22,7 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+body{
+  font-size: 30px;
+  color: rgb(255, 0, 0);
+}
