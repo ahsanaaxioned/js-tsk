@@ -44,6 +44,10 @@
 //     document.write("<br>");
 // }
 // JS 3rd task end here
+// JS 5th Task start here
+
+// JS 5th Task end here
+
 
 
 
